@@ -11,7 +11,7 @@ Applied data science tool to analyze the spread of covid-19
 python visualize.py
 ```
 * The Dashboard will run on localhost at port - 8051. (Click the link generated after above command) 
-* Make sure you have required libraries installed on your machine.
+* Make sure you have required libraries installed on your machine. See requirement.txt.
 
 <p align='center'>
 <img src='images/Task1.png' title='virus spread and doubling rate for individual country' style='max-width:600px'></img>
