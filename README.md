@@ -6,7 +6,8 @@ Applied data science tool to analyze the spread of covid-19
 
 #### Steps to execute Task 1
 
-* After cloning the repository, run 'visualize.py' file from **src** folder. 
+* After cloning the Covid-19-Data-Analysis repository, navigate to **src** folder and run 'visualize.py'.
+* Make sure you have required libraries installed on your machine.
 
 <p align='center'>
 <img src='images/Task1.png' title='virus spread and doubling rate for individual country' style='max-width:600px'></img>
@@ -16,7 +17,7 @@ Applied data science tool to analyze the spread of covid-19
 
 #### Steps to execute Task 2
 
-* After cloning the repository, run 'visualize_SIR.py' file from **src** folder.
+* After cloning the Covid-19-Data-Analysis repository, navigate to **src** folder and run 'visualize_SIR.py'.
 * Note: To use the population data for SIR modelling a new dataset file called population.csv is used. It is placed under data/population.csv
 
 <p align='center'>
