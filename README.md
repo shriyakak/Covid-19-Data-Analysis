@@ -19,5 +19,5 @@ Applied data science tool to analyze the spread of covid-19
 * After cloning the repository, run 'visualize_SIR.py' file from **src** folder.
 
 <p align='center'>
-<img src='images/Task1.png' title=' prediction of Covid-19 infection and recovery rate for individual country' style='max-width:600px'></img>
+<img src='images/Task2.png' title=' prediction of Covid-19 infection and recovery rate for individual country' style='max-width:600px'></img>
 </p>
