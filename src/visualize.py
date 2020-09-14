@@ -33,7 +33,7 @@ app.layout = html.Div([
     # '''),
 
     dcc.Markdown('''
-    ### __Select Timeline for comparitive representation of confirmed COVID-19 cases__
+    ### __Select timeline for comparitive representation of confirmed COVID-19 cases__
     ''',),
 
     dcc.Dropdown(
