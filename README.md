@@ -10,6 +10,7 @@ Applied data science tool to analyze the spread of covid-19
 ```
 python visualize.py
 ```
+* The Dashboard will run on localhost at port - 8051. (Click the link generated after above command) 
 * Make sure you have required libraries installed on your machine.
 
 <p align='center'>
@@ -24,6 +25,7 @@ python visualize.py
 ```
 python visualize_SIR.py
 ```
+* The Dashboard will run on localhost at port - 8052. (Click the link generated after above command)
 * Note: To use the population data for SIR modelling a new dataset file called population.csv is used. It is placed under data/population.csv
 
 <p align='center'>
