@@ -6,7 +6,10 @@ Applied data science tool to analyze the spread of covid-19
 
 #### Steps to execute Task 1
 
-* After cloning the Covid-19-Data-Analysis repository, navigate to **src** folder and run 'visualize.py'.
+* After cloning the Covid-19-Data-Analysis repository, navigate to **src** folder and execute below command
+```
+python visualize.py
+```
 * Make sure you have required libraries installed on your machine.
 
 <p align='center'>
@@ -17,7 +20,10 @@ Applied data science tool to analyze the spread of covid-19
 
 #### Steps to execute Task 2
 
-* After cloning the Covid-19-Data-Analysis repository, navigate to **src** folder and run 'visualize_SIR.py'.
+* After cloning the Covid-19-Data-Analysis repository, navigate to **src** folder and execute below command
+```
+python visualize_SIR.py
+```
 * Note: To use the population data for SIR modelling a new dataset file called population.csv is used. It is placed under data/population.csv
 
 <p align='center'>
